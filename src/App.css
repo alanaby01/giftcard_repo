@@ -28,11 +28,39 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.para{
+  margin-top:25px;
+  margin-left:625px;
+  margin-right:625px;
+  text-align: center;
+  color: rgb(160, 160, 160 );
+}
+
+h1{
+  padding-top: 100px;
+  text-align: center;
+}
+.textbox{
+  margin-left:750px;
+  margin-right:750px;
+  border-color: black;
+}
+.button1 {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    color: blue;
+    background-color: white;
+    border: 1px solid blue;
+    padding-left: 80px;
+    padding-right: 80px;
+    margin-left: 950px;
+    margin-top: 80px;
+
+    
 }
